@@ -12,8 +12,3 @@ I'm a Software Engineer and a Music Minister who is currently a student at [AltS
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://portfolio.qxtaestell.repl.co/) and contact me by emailing to  abolarinesther98@gmail.com.
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
-| ------------- | ------------- |
