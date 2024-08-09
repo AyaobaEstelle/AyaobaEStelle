@@ -7,7 +7,7 @@ I'm a Software Engineer and a Worship Minister, i recently graduated from  [AltS
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: she/Her
+- 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm a Graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning JavaScript, TypeScript, React.JS and Next.JS.
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
